@@ -1,0 +1,11 @@
+{
+  "name": "Ozyn-test-2",
+  "version": "1.0.0",
+  "description": "AI assistant for productivity",
+  "settings": {
+    "language": "en",
+    "theme": "light",
+    "notifications": true,
+    "auto_save": true
+  }
+}
